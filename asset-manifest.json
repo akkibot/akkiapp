@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akkiapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/akkiapp/static/js/main.10dd5161.chunk.js",
+    "main.js.map": "/akkiapp/static/js/main.10dd5161.chunk.js.map",
+    "runtime-main.js": "/akkiapp/static/js/runtime-main.0ae67480.js",
+    "runtime-main.js.map": "/akkiapp/static/js/runtime-main.0ae67480.js.map",
+    "static/js/2.868a313c.chunk.js": "/akkiapp/static/js/2.868a313c.chunk.js",
+    "static/js/2.868a313c.chunk.js.map": "/akkiapp/static/js/2.868a313c.chunk.js.map",
+    "index.html": "/akkiapp/index.html",
+    "precache-manifest.e45e0459b4e66bfc77112cb71374c35b.js": "/akkiapp/precache-manifest.e45e0459b4e66bfc77112cb71374c35b.js",
+    "service-worker.js": "/akkiapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/akkiapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.868a313c.chunk.js.LICENSE.txt": "/akkiapp/static/js/2.868a313c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/akkiapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ae67480.js",
+    "static/js/2.868a313c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.10dd5161.chunk.js"
+  ]
+}
